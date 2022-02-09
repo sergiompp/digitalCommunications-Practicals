@@ -1,4 +1,4 @@
-# digitalCommunications-Practices
+# Digital Communications - Practicals
 
 Programming practices in MATLAB for the subject of "Digital Communications" for the bachelor degree in Mobile and Space Communications Engineering at the Carlos III University of Madrid ([uc3m](https://www.uc3m.es/Inicio/))
 <p align="center">
@@ -7,3 +7,4 @@ Programming practices in MATLAB for the subject of "Digital Communications" for 
 
 ## Index:
 
+**@ All rights reserved to University Carlos III de Madrid**
