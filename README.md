@@ -6,6 +6,11 @@ Programming practices in MATLAB for the subject of "Digital Communications" for 
 </p>
 
 ## Index:
+### 1. Basic Digital Communications System
+### 2. Modulation Techniques
+#### 2. 1. _DSSS - Direct Sequence Spread Spectrum_
+#### 2. 2. _OFDM - Orthogonal Frequency Division Multiplexing_
+
 
 ---
 **@ All rights reserved to University Carlos III de Madrid**
