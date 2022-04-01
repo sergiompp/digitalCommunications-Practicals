@@ -1,7 +1,3 @@
-%% AUTOR
-
-% Sergio Martín Pérez Prieto
-
 %% PARTE 2 - EFECTO RUIDO. RELACIÓN Eb/No
 
 L = 1000;           % Muestras a generar
